@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/KaramveerSidhu/robo-search/static/css/main.229a2e4e.chunk.css",
-    "main.js": "/KaramveerSidhu/robo-search/static/js/main.3d112979.chunk.js",
-    "main.js.map": "/KaramveerSidhu/robo-search/static/js/main.3d112979.chunk.js.map",
-    "runtime-main.js": "/KaramveerSidhu/robo-search/static/js/runtime-main.ef1efd12.js",
-    "runtime-main.js.map": "/KaramveerSidhu/robo-search/static/js/runtime-main.ef1efd12.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/KaramveerSidhu/robo-search/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.6b4e3719.chunk.js": "/KaramveerSidhu/robo-search/static/js/2.6b4e3719.chunk.js",
-    "static/js/2.6b4e3719.chunk.js.map": "/KaramveerSidhu/robo-search/static/js/2.6b4e3719.chunk.js.map",
-    "index.html": "/KaramveerSidhu/robo-search/index.html",
-    "precache-manifest.f60007a2e6985606c51fb5bf2f9a2a47.js": "/KaramveerSidhu/robo-search/precache-manifest.f60007a2e6985606c51fb5bf2f9a2a47.js",
-    "service-worker.js": "/KaramveerSidhu/robo-search/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/KaramveerSidhu/robo-search/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.229a2e4e.chunk.css.map": "/KaramveerSidhu/robo-search/static/css/main.229a2e4e.chunk.css.map",
-    "static/js/2.6b4e3719.chunk.js.LICENSE.txt": "/KaramveerSidhu/robo-search/static/js/2.6b4e3719.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/KaramveerSidhu/robo-search/static/media/cf-i-robot-font.64c0669a.ttf"
+    "main.css": "/robo-search/static/css/main.485b70df.chunk.css",
+    "main.js": "/robo-search/static/js/main.03e8dfb7.chunk.js",
+    "main.js.map": "/robo-search/static/js/main.03e8dfb7.chunk.js.map",
+    "runtime-main.js": "/robo-search/static/js/runtime-main.a8da7f93.js",
+    "runtime-main.js.map": "/robo-search/static/js/runtime-main.a8da7f93.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/robo-search/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.6b4e3719.chunk.js": "/robo-search/static/js/2.6b4e3719.chunk.js",
+    "static/js/2.6b4e3719.chunk.js.map": "/robo-search/static/js/2.6b4e3719.chunk.js.map",
+    "index.html": "/robo-search/index.html",
+    "precache-manifest.79c80ea6085840b476ae41691feb1e53.js": "/robo-search/precache-manifest.79c80ea6085840b476ae41691feb1e53.js",
+    "service-worker.js": "/robo-search/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/robo-search/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.485b70df.chunk.css.map": "/robo-search/static/css/main.485b70df.chunk.css.map",
+    "static/js/2.6b4e3719.chunk.js.LICENSE.txt": "/robo-search/static/js/2.6b4e3719.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robo-search/static/media/cf-i-robot-font.64c0669a.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef1efd12.js",
+    "static/js/runtime-main.a8da7f93.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.6b4e3719.chunk.js",
-    "static/css/main.229a2e4e.chunk.css",
-    "static/js/main.3d112979.chunk.js"
+    "static/css/main.485b70df.chunk.css",
+    "static/js/main.03e8dfb7.chunk.js"
   ]
 }
