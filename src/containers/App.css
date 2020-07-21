@@ -1,0 +1,16 @@
+@font-face{
+	font-family: 'cf-i-robot-font';
+	src: local('cf-i-robot-font'), url('./cf-i-robot-font.ttf') format('truetype');
+}
+
+h1{
+	font-family: 'cf-i-robot-font';
+	font-weight: 100;
+	color: #5B3256;
+}
+
+.headerStyle{
+	font-size: 10vh;
+	margin-bottom: 0px;
+	margin-top: 1px;
+}
